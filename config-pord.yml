@@ -1,1 +1,2 @@
-config-name: prod配置文件
+config: 
+  info: pord配置文件

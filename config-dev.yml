@@ -1,1 +1,2 @@
-config-name: dev配置文件
+config:
+  info: dev配置文件
